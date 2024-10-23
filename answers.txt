@@ -1,5 +1,5 @@
 5.1
-	a) 
+	a) If "Cancel" is chosen, the result print "NO"
 	
 
 

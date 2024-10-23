@@ -1,0 +1,10 @@
+5.1
+	a) 
+	
+
+
+	b) To show only options "YES" or "NO", we use showOptionDialog with self customized options
+
+	String[] options = {"YES","NO"};
+        int option = JOptionPane.showOptionDialog(null, "What do you choose ?","Choose an option",JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE, null, options, options[0]);
+

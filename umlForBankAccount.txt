@@ -1,0 +1,14 @@
++-----------------------------------+
+|           BankAccount             |
++-----------------------------------+
+| - balance : double                |
+| - name : string                   |
++-----------------------------------+
+| + withdraw(amount : double) : void|
+| + deposit(amount : double) : void |
+| + updateLog() : void              |
+| + checkWithdrawCount(int) : void  |
+| + show Log() : void               |
+| + terminate() : void              |
+| + showRemainingBalance() : double |
++-----------------------------------+
